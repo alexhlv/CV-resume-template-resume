@@ -1,0 +1,13 @@
+:root {
+    --dark: #242424;
+    --white: #FFFFFF;
+
+    --font: 'Hind', sans-serif;
+
+    --regular-header: 50px/1.6 var(--font);
+    --regular-description: 34px/1.6 var(--font);
+
+    --section-header-spacing: 6px;
+
+    --page-size: 1240px;
+}
